@@ -1,0 +1,156 @@
+body{
+  background-color:  #ffffff;
+  width: 1600px;
+  height: 1968px;
+}
+
+.p1{
+  font-family:"HelveticaNeue-CondensedBold", "FranklinGothicFSDemiCondensed", Arial, sans-serif;
+  color: #848484;
+}
+
+.input1{
+  background-image: url(pic/container.png);
+}
+
+.imput2{
+background-image: url(pic/conttop.png);
+}
+
+.rttj{
+  margin-left: 400px;
+}
+
+.note{
+color:#ffffff;
+padding-top:160px;
+padding-left:330px;
+text-align:left;
+font-family: Brush Script MT, Brush Script Std, cursive;
+font-style: normal;
+font-size: 60px;
+}
+
+.note1{
+  color:#ffffff;
+  width: 450px;
+  word-wrap: break-word;
+  padding-left:330px;
+  text-align: left;
+  font-family:"HelveticaNeue-CondensedBold", "FranklinGothicFSDemiCondensed", Arial, sans-serif;
+  font-size: 24px;
+  font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+}
+.c1{
+margin-left: 329px;
+}
+.c2{
+margin-left: 10px;
+}
+.c3{
+margin-left: 10px;
+}
+
+.div1{
+  width: 1600px;
+  height: 600px;
+  background-image: url(pic/bghead.png);
+  margin-top: -65px;
+  position: static;
+  }
+
+.flex1{
+  margin-top: 20px;
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  font-size: 22px;
+  color:  #222222;
+}
+
+.fl1{
+margin-right:295px;
+margin-left: 10px;
+}
+
+.fl3{
+margin-left:265px;
+}
+
+.flex2{
+  margin-top: 20px;
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  font-family:"HelveticaNeue-CondensedBold", "FranklinGothicFSDemiCondensed", Arial, sans-serif;
+  color:  #848484;
+}
+
+.flt1{
+  word-wrap: break-word;
+  width:300px;
+  text-indent:17px;
+  margin-right:130px;
+}
+.flt2{
+  word-wrap: break-word;
+  width: 300px;
+  text-indent: 17px;
+}
+.flt3{
+  word-wrap:break-word;
+  width:300px;
+  text-indent:17px;
+  margin-left:130px;
+}
+
+.div2{
+background-color:  #e3e3e3;
+background-repeat:no-repeat;
+}
+
+.flex3{
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  padding-bottom:30px;
+}
+
+.flex4{
+background-color:  #e3e3e3;
+background-repeat:no-repeat;
+display: flex;
+flex-direction:row;
+justify-content: center;
+width: 1600px;
+height: 130px;
+color:  #848484;
+}
+
+.flb1{
+margin-right: 15px;
+width: 32px;
+height: 32px;
+}
+
+.flb2{
+  margin-top: 60px;
+  margin-right: 30px;
+}
+
+.gc1{
+  margin-left: 319px;
+  margin-top: 45px;
+}
+
+.gc2{
+  margin-left: 319px;
+  margin-top: 45px;
+}
+
+.gc3{
+  margin-left: 319px;
+  margin-top: 45px;
+}
