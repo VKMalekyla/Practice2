@@ -9,16 +9,80 @@ body{
   color: #848484;
 }
 
-.input1{
-  background-image: url(pic/container.png);
+.p2{
+  font-family:"HelveticaNeue-CondensedBold", "FranklinGothicFSDemiCondensed", Arial, sans-serif;
+  color: #848484;
+  word-wrap: break-word;
+  width: 500px;
+  margin-left: 210px;
+  margin-top: 55px;
+  font-size: 16px;
+}
+.p3{
+  font-family: "HelveticaNeue-CondensedBold", "FranklinGothicFSDemiCondensed", Arial, sans-serif;
+color:  #848484;
+font-size: 18px;
+font-style: italic;
+line-height: 30px;
+text-align: center;
+word-wrap: break-word;
 }
 
-.imput2{
-background-image: url(pic/conttop.png);
+.p4{
+  font-family: "HelveticaNeue-CondensedBold", "FranklinGothicFSDemiCondensed", Arial, sans-serif;
+  color:  #848484;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: center;
+}
+
+.gnoau{
+  font-size: 22px;
+  color:  #222222;
+  margin-bottom: 15px;
+  display: block;
+  margin-left: 211px;
+}
+
+.input1{
+  background-image: url(pic/container.png);
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1px;
+  border-color:  #c8c8c8;
+  box-sizing: border-box;
+  background-color:  #ffffff;
+  width: 352px;
+  height: 56px;
+  display: block;
+  margin-left: 209px;
+}
+
+.input2{
+border-bottom-right-radius: 15px;
+border-top-right-radius: 15px;
+background-color:  #2ecc71;
+width: 141px;
+height: 56px;
+display: block;
+margin-left: 552px;
+margin-top: -57px;
+text-align: center;
+
 }
 
 .rttj{
-  margin-left: 400px;
+  width: 500px;
+  height: 307px;
+  border-radius: 15px;
+  box-sizing: border-box;
+  border-style: solid;
+  border-width: 1px;
+  border-color:  #c8c8c8;
+  margin-left: 889px;
+  margin-top: -150px;
+
 }
 
 .note{
@@ -43,6 +107,29 @@ font-size: 60px;
 	font-variant: normal;
 	font-weight: 500;
 }
+
+.fac1{
+  margin-left:226px;
+  margin-top: 48px;
+}
+.JH{
+  font-family: Raleway;
+color:  #2e2e2e;
+font-size: 18px;
+font-weight: 700;
+line-height: 20px;
+text-align: center;
+}
+
+.SH{
+  font-family: Raleway;
+color:  #000000;
+font-size: 24px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+}
+
 .c1{
 margin-left: 329px;
 }
@@ -109,6 +196,9 @@ margin-left:265px;
 .div2{
 background-color:  #e3e3e3;
 background-repeat:no-repeat;
+width: 1600px;
+height: 427px;
+display: inline-block;
 }
 
 .flex3{
